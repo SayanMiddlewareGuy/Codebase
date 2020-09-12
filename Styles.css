@@ -1,0 +1,32 @@
+.Top{
+  text-align: center;
+  margin-top: 100px;
+}
+.Middle{
+  text-align: center;
+  margin-top: 10px;
+  float: right;
+}
+p{
+  width: 20%;
+  margin: auto;
+}
+
+.devimg{
+  float: left;
+  width: 25%;
+}
+.chessimg{
+  float: right;
+  width: 25%;
+}
+body{
+  background-color: #EAF6F6;
+}
+.new{
+  text-align: center;
+}
+.name{
+  font-family: 'Sacramento', sans-serif;
+  font-size: 110px;
+}
